@@ -194,6 +194,7 @@
   <Project Path="src/Paramore.Brighter.DynamoDb/Paramore.Brighter.DynamoDb.csproj" />
   <Project Path="src/Paramore.Brighter.Extensions.DependencyInjection/Paramore.Brighter.Extensions.DependencyInjection.csproj" />
   <Project Path="src/Paramore.Brighter.Extensions.Diagnostics/Paramore.Brighter.Extensions.Diagnostics.csproj" />
+  <Project Path="src/Paramore.Brighter.Extensions.OpenTelemetry/Paramore.Brighter.Extensions.OpenTelemetry.csproj" />
   <Project Path="src/Paramore.Brighter.Firestore/Paramore.Brighter.Firestore.csproj" />
   <Project Path="src/Paramore.Brighter.Inbox.DynamoDB.V4/Paramore.Brighter.Inbox.DynamoDB.V4.csproj" />
   <Project Path="src/Paramore.Brighter.Inbox.DynamoDB/Paramore.Brighter.Inbox.DynamoDB.csproj" />
